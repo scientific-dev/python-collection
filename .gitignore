@@ -1,0 +1,7 @@
+# Pycache
+__pycache__/
+
+# Build files
+python_collection.egg-info/
+build/
+dist/
