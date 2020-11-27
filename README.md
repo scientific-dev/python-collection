@@ -9,6 +9,12 @@ This module is inspired from discordjs collections
 - [Pypi](https://pypi.org/project/python-collection/)
 - [Discord Support Server](https://discord.gg/FrduEZd)
 
+# Installation
+
+```sh
+$ pip install python-collection
+```
+
 # Usage
 
 ```py
